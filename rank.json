@@ -1,0 +1,104 @@
+[
+    {
+        "id": "1",
+        "rank_name": "入门新手",
+        "target_level": "0",
+        "gold": "0"
+    },
+    {
+        "id": "2",
+        "rank_name": "菜鸟铸铁",
+        "target_level": "2",
+        "gold": "50"
+    },
+    {
+        "id": "3",
+        "rank_name": "不屈黑铁",
+        "target_level": "6",
+        "gold": "100"
+    },
+    {
+        "id": "4",
+        "rank_name": "倔犟寒铁",
+        "target_level": "15",
+        "gold": "80"
+    },
+    {
+        "id": "5",
+        "rank_name": "坚毅玄铁",
+        "target_level": "39",
+        "gold": "120"
+    },
+    {
+        "id": "6",
+        "rank_name": "机敏青铜",
+        "target_level": "69",
+        "gold": "170"
+    },
+    {
+        "id": "7",
+        "rank_name": "优秀黄铜",
+        "target_level": "129",
+        "gold": "220"
+    },
+    {
+        "id": "8",
+        "rank_name": "杰出白银",
+        "target_level": "189",
+        "gold": "270"
+    },
+    {
+        "id": "9",
+        "rank_name": "卓越黄金",
+        "target_level": "269",
+        "gold": "320"
+    },
+    {
+        "id": "10",
+        "rank_name": "璀璨铂金",
+        "target_level": "369",
+        "gold": "370"
+    },
+    {
+        "id": "11",
+        "rank_name": "精英振金",
+        "target_level": "495",
+        "gold": "420"
+    },
+    {
+        "id": "12",
+        "rank_name": "睿智翡翠",
+        "target_level": "645",
+        "gold": "470"
+    },
+    {
+        "id": "13",
+        "rank_name": "如炬钻石",
+        "target_level": "795",
+        "gold": "520"
+    },
+    {
+        "id": "14",
+        "rank_name": "卓越大师",
+        "target_level": "945",
+        "gold": "570"
+    },
+    {
+        "id": "15",
+        "rank_name": "超凡宗师",
+        "target_level": "1245",
+        "gold": "620"
+    },
+    {
+        "id": "16",
+        "rank_name": "超凡宗师",
+        "target_level": "1695",
+        "gold": "670"
+    },
+    {
+        "id": "17",
+        "rank_name": "超强王者",
+        "target_level": "2295",
+        "gold": "720"
+    }
+]
